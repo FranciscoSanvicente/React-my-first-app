@@ -10,7 +10,7 @@ my first app with react
 
 ![](https://github.com/FranciscoSanvicente/React-my-first-app/blob/main/Captura.PNG)
 
-Para instalar e iniciar el proyecto:
+To install and start the project:
 
 ```npm i```
 
